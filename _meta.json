@@ -1,7 +1,7 @@
 {
   "name": "desk3-crypto-briefing",
   "description": "Desk3 Crypto Market Real-time Briefing - Provides BTC/ETH/SOL core prices, Fear & Greed Index, technical indicators, news and trending coins. Credit: Desk3",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Desk3",
   "homepage": "https://www.desk3.io"
 }
